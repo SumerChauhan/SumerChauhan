@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumerChauhan
-- 👀 I’m interested in ...app develpoment
+- 👀 I’m interested in ...web develpoment
 - 🌱 I’m currently learning ...bba
-- 💞️ I’m looking to collaborate on ... minor app developing projects
+- 💞️ I’m looking to collaborate on ... minor web developing projects
 - 📫 How to reach me ... via mail (sumerchauhan0010@gmail.com)
 
 <!---
